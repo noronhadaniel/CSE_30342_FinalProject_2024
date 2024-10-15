@@ -1,0 +1,21 @@
+\o Program:		@(#)$CDS: libManager version 6.1.7 - CAT35 10/30/2018 21:08 (sjfnl050) $
+\o Sub version:		sub-version  s231 
+\o Arguments:		-mpssession virtuoso5032 -mpshost student04 
+\o Working Directory:	student04:/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/lab3_boyz
+\o 64-bit offsets
+\o Qt version: 		4.8.5
+\o Log file is "/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/lab3_boyz/libManager.log".
+\o Opening libManager window.
+\a nrSetCurrentWindow(cdsLibManager)
+\o Loading customization file "./cdsLibMgr.il"
+\o Loading NCSU Library Manager customizations...done.
+\a nrResizeWindow(cdsLibManager list(481 448 602 491))
+\o changeWorkingDir("/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/lab3_boyz") unnecessary.
+\o ddSetForcedLib("") unnecessary.
+\o MPS service: map window
+\o Library Manager customization server connected.
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->fileExitButton->value = t
+\o libManager is exiting.
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a exit(0)
