@@ -1,2 +1,4 @@
 *.cdslck
 .DS_Store
+*.log*
+*.history
