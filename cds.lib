@@ -16,14 +16,32 @@ DEFINE analogLib $IC/tools.lnx86/dfII/etc/cdslib/artist/analogLib
 DEFINE functional $IC/tools.lnx86/dfII/etc/cdslib/artist/functional
 DEFINE sbaLib $IC/tools.lnx86/dfII/etc/cdslib/artist/sbaLib
 
-DEFINE lab1_nnguye24 /esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/lab1_nnguye24
-DEFINE lab2_nnguye24 /esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/lab2_nnguye24
-DEFINE hw2_nnguye24 /esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/hw2_nnguye24
+DEFINE lab1_nnguye24_dnoronha /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab1_nnguye24
+DEFINE lab2_nnguye24_dnoronha /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab2_nnguye24
+DEFINE hw2_nnguye24_dnoronha /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/hw2_nnguye24
+DEFINE lab1_nnguye24_nnguye24 /escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/lab1_nnguye24
+DEFINE lab2_nnguye24_nnguye24 /escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/lab2_nnguye24
+DEFINE hw2_nnguye24_nnguye24 /escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/hw2_nnguye24
+DEFINE lab1_nnguye24_rortiz4 /escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab1_nnguye24
+DEFINE lab2_nnguye24_rortiz4 /escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab2_nnguye24
+DEFINE hw2_nnguye24_rortiz4 /escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4//VLSI/boyz/hw2_nnguye24
 
-DEFINE lab1_rortiz4 /esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/lab1_rortiz4
-DEFINE lab2_rortiz4 /esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/lab2_rortiz4
-DEFINE hw2_rortiz4 /esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/hw2_rortiz4
+DEFINE lab1_rortiz4_dnoronha /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab1_rortiz4
+DEFINE lab2_rortiz4_dnoronha /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab2_rortiz4
+DEFINE hw2_rortiz4_dnoronha /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/hw2_rortiz4
+DEFINE lab1_rortiz4_nnguye24 /escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/lab1_rortiz4
+DEFINE lab2_rortiz4_nnguye24 /escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/lab2_rortiz4
+DEFINE hw2_rortiz4_nnguye24 /escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/hw2_rortiz4
+DEFINE lab1_rortiz4_rortiz4 /escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab1_rortiz4
+DEFINE lab2_rortiz4_rortiz4 /escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab2_rortiz4
+DEFINE hw2_rortiz4_rortiz4 /escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/hw2_rortiz4
 
-DEFINE lab1_dnoronha /esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/lab1_dnoronha
-DEFINE lab2_dnoronha /esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/lab2_dnoronha
-DEFINE hw2_dnoronha /esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/hw2_dnoronha
+DEFINE lab1_dnoronha_dnoronha /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab1_dnoronha
+DEFINE lab2_dnoronha_dnoronha /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab2_dnoronha
+DEFINE hw2_dnoronha_dnoronha /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/hw2_dnoronha
+DEFINE lab1_dnoronha_nnguye24 /escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/lab1_dnoronha
+DEFINE lab2_dnoronha_nnguye24 /escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/lab2_dnoronha
+DEFINE hw2_dnoronha_nnguye24 /escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/hw2_dnoronha
+DEFINE lab1_dnoronha_rortiz4 /escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab1_dnoronha
+DEFINE lab2_dnoronha_rortiz4 /escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab2_dnoronha
+DEFINE hw2_dnoronha_rortiz4 /escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/hw2_dnoronha
