@@ -1,0 +1,11 @@
+CADENCE IHNL11140
+$model
+lab3_boyz_dnoronha/adv_logic/schematic adv_logic
+lab3_boyz_dnoronha/sim_adv_circuit/schematic sim_adv_circuit
+$endmodel
+$net
+gnd! 0
+vdd! vdd!
+$endnet
+$param
+$endparam

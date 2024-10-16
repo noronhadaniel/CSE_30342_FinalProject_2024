@@ -1,0 +1,28 @@
+    P5 (y d net33 vdd!) ami06P w=6u l=600n as=9e-12 ad=9e-12 ps=15.0u \
+        pd=15.0u m=1 region=sat
+    P4 (y c net33 vdd!) ami06P w=6u l=600n as=9e-12 ad=9e-12 ps=15.0u \
+        pd=15.0u m=1 region=sat
+    P3 (net33 f vdd! vdd!) ami06P w=6u l=600n as=9e-12 ad=9e-12 ps=15.0u \
+        pd=15.0u m=1 region=sat
+    P2 (net33 e vdd! vdd!) ami06P w=6u l=600n as=9e-12 ad=9e-12 ps=15.0u \
+        pd=15.0u m=1 region=sat
+    P1 (y b net37 vdd!) ami06P w=6u l=600n as=9e-12 ad=9e-12 ps=15.0u \
+        pd=15.0u m=1 region=sat
+    P0 (net37 a vdd! vdd!) ami06P w=6u l=600n as=9e-12 ad=9e-12 ps=15.0u \
+        pd=15.0u m=1 region=sat
+    N5 (net35 e 0 0) ami06N w=4.5u l=600n as=6.75e-12 ad=6.75e-12 ps=12.0u \
+        pd=12.0u m=1 region=sat
+    N4 (net36 c 0 0) ami06N w=4.5u l=600n as=6.75e-12 ad=6.75e-12 ps=12.0u \
+        pd=12.0u m=1 region=sat
+    N3 (net27 f net35 0) ami06N w=4.5u l=600n as=6.75e-12 ad=6.75e-12 \
+        ps=12.0u pd=12.0u m=1 region=sat
+    N2 (net27 d net36 0) ami06N w=4.5u l=600n as=6.75e-12 ad=6.75e-12 \
+        ps=12.0u pd=12.0u m=1 region=sat
+    N1 (y b net27 0) ami06N w=4.5u l=600n as=6.75e-12 ad=6.75e-12 ps=12.0u \
+        pd=12.0u m=1 region=sat
+    N0 (y a net27 0) ami06N w=4.5u l=600n as=6.75e-12 ad=6.75e-12 ps=12.0u \
+        pd=12.0u m=1 region=sat
+    V1 (0 0) vsource type=dc dc=0
+    V0 (vdd! 0) vsource type=dc dc=5
+ends part2_circuit
+// End of subcircuit definition.

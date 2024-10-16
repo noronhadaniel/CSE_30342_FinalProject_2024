@@ -1,0 +1,7 @@
+// Generated for: spectre
+// Generated on: Oct 16 00:17:33 2024
+// Design library name: lab3_boyz_dnoronha
+// Design cell name: sim_adv_circuit
+// Design view name: schematic
+simulator lang=spectre
+global 0 vdd!

@@ -1,0 +1,159 @@
+Virtuoso Framework License (111) was checked out successfully. Total checkout time was 0.01s.
+Loading /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/.simrc file.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab3_boyz' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'lab3_boyz_rortiz4'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/lab3_boyz' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'lab3_boyz_nnguye24'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/hw2_dnoronha' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'hw2_dnoronha_rortiz4'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab2_dnoronha' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'lab2_dnoronha_rortiz4'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab1_dnoronha' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'lab1_dnoronha_rortiz4'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/hw2_dnoronha' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'hw2_dnoronha_nnguye24'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/lab2_dnoronha' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'lab2_dnoronha_nnguye24'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/lab1_dnoronha' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'lab1_dnoronha_nnguye24'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/hw2_rortiz4' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'hw2_rortiz4_rortiz4'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab2_rortiz4' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'lab2_rortiz4_rortiz4'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab1_rortiz4' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'lab1_rortiz4_rortiz4'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/hw2_rortiz4' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'hw2_rortiz4_nnguye24'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/lab2_rortiz4' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'lab2_rortiz4_nnguye24'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/lab1_rortiz4' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'lab1_rortiz4_nnguye24'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/hw2_nnguye24' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'hw2_nnguye24_rortiz4'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab2_nnguye24' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'lab2_nnguye24_rortiz4'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab1_nnguye24' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'lab1_nnguye24_rortiz4'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/hw2_nnguye24' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'hw2_nnguye24_nnguye24'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/lab2_nnguye24' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'lab2_nnguye24_nnguye24'.
+*INFO* (icLic-302) License Virtuoso_Layout_Suite_GXL ("Layout GXL") was used to run Layout L.
+
+Running simulation in directory: "/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/LVS.lab3.part2".
+
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab3_boyz' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'lab3_boyz_rortiz4'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/lab3_boyz' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'lab3_boyz_nnguye24'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/hw2_dnoronha' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'hw2_dnoronha_rortiz4'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab2_dnoronha' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'lab2_dnoronha_rortiz4'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab1_dnoronha' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'lab1_dnoronha_rortiz4'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/hw2_dnoronha' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'hw2_dnoronha_nnguye24'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/lab2_dnoronha' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'lab2_dnoronha_nnguye24'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/lab1_dnoronha' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'lab1_dnoronha_nnguye24'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/hw2_rortiz4' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'hw2_rortiz4_rortiz4'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab2_rortiz4' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'lab2_rortiz4_rortiz4'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab1_rortiz4' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'lab1_rortiz4_rortiz4'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/hw2_rortiz4' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'hw2_rortiz4_nnguye24'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/lab2_rortiz4' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'lab2_rortiz4_nnguye24'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/lab1_rortiz4' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'lab1_rortiz4_nnguye24'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/hw2_nnguye24' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'hw2_nnguye24_rortiz4'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab2_nnguye24' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'lab2_nnguye24_rortiz4'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab1_nnguye24' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'lab1_nnguye24_rortiz4'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/hw2_nnguye24' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'hw2_nnguye24_nnguye24'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/lab2_nnguye24' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'lab2_nnguye24_nnguye24'.
+*WARNING* The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/lab1_nnguye24' does not exist
+	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/cds.lib' for Lib 'lab1_nnguye24_nnguye24'.
+
+
+Begin netlist:    Oct 16 02:16:29 2024
+	view name list	= ("auLvs" "extracted")
+	stop name list	= ("auLvs")
+	library name	= "lab3_boyz_dnoronha"
+	cell name	= "part2_circuit"
+	view name	= "extracted"
+	globals lib	= "basic"
+Running Artist Flat Netlisting ...
+*WARNING* Parameter 'lxUseCell' already exists.
+End netlist:    Oct 16 02:16:29 2024
+
+Moving original netlist to extNetlist
+Removing parasitic components from netlist
+	presistors removed:  0
+	pcapacitors removed: 0
+	pinductors removed:  0
+	pdiodes removed:     0
+	trans lines removed: 0
+	14 nodes merged into 14 nodes
+
+
+Begin netlist:    Oct 16 02:16:29 2024
+	view name list	= ("auLvs" "cmos_sch" "schematic" "symbol")
+	stop name list	= ("auLvs")
+	library name	= "lab3_boyz_dnoronha"
+	cell name	= "part2_circuit"
+	view name	= "schematic"
+	globals lib	= "basic"
+Running Artist Flat Netlisting ...
+*INFO* (icLic-302) License Virtuoso_Layout_Suite_GXL ("Layout GXL") was used to run Layout L.
+End netlist:    Oct 16 02:16:29 2024
+
+Moving original netlist to extNetlist
+Removing parasitic components from netlist
+	presistors removed:  0
+	pcapacitors removed: 0
+	pinductors removed:  0
+	pdiodes removed:     0
+	trans lines removed: 0
+	16 nodes merged into 16 nodes
+
+Running netlist comparison program:  LVS
+Begin comparison:    Oct 16 02:16:29 2024
+@(#)$CDS: LVS version 6.1.7-64b 12/16/2018 07:37 (sjfhw317) $
+
+The net-lists match.
+
+                             layout  schematic
+                                instances
+        un-matched              0       0      
+        rewired                 0       0      
+        size errors             0       0      
+        pruned                  0       0      
+        active                  12      12     
+        total                   12      12     
+
+                                  nets
+        un-matched              0       0      
+        merged                  0       0      
+        pruned                  0       0      
+        active                  14      14     
+        total                   14      14     
+
+                                terminals
+        un-matched              0       0      
+        matched but
+        different type          0       0      
+        total                   9       9      
+End comparison:      Oct 16 02:16:30 2024
+*INFO* (icLic-302) License Virtuoso_Layout_Suite_GXL ("Layout GXL") was used to run Layout L.
+
+
+Comparison program completed successfully.

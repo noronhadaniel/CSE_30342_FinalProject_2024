@@ -1,0 +1,94 @@
+@(#)$CDS: LVS version 6.1.7-64b 12/16/2018 07:37 (sjfhw317) $
+
+Command line: /escnfs/home/csesoft/cadence/installs/IC617/tools.lnx86/dfII/bin/64bit/LVS -dir /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/LVS.lab3.part2 -l -s -t /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/LVS.lab3.part2/layout /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/LVS.lab3.part2/schematic
+Like matching is enabled.
+Net swapping is enabled.
+Using terminal names as correspondence points.
+Compiling Diva LVS rules...
+
+    Net-list summary for /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/LVS.lab3.part2/layout/netlist
+       count
+        14              nets
+        9               terminals
+        6               pmos
+        6               nmos
+
+    Net-list summary for /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/LVS.lab3.part2/schematic/netlist
+       count
+        14              nets
+        9               terminals
+        6               pmos
+        6               nmos
+
+
+    Terminal correspondence points
+    N11       N6        a
+    N10       N5        b
+    N9        N8        c
+    N8        N2        d
+    N6        N3        e
+    N5        N12       f
+    N7        N1        gnd!
+    N12       N0        vdd!
+    N13       N4        y
+
+Devices in the rules but not in the netlist:
+        cap nfet pfet nmos4 pmos4
+
+The net-lists match.
+
+                             layout  schematic
+                                instances
+        un-matched              0       0      
+        rewired                 0       0      
+        size errors             0       0      
+        pruned                  0       0      
+        active                  12      12     
+        total                   12      12     
+
+                                  nets
+        un-matched              0       0      
+        merged                  0       0      
+        pruned                  0       0      
+        active                  14      14     
+        total                   14      14     
+
+                                terminals
+        un-matched              0       0      
+        matched but
+        different type          0       0      
+        total                   9       9      
+
+
+Probe files from /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/LVS.lab3.part2/schematic
+
+devbad.out:
+
+netbad.out:
+
+mergenet.out:
+
+termbad.out:
+
+prunenet.out:
+
+prunedev.out:
+
+audit.out:
+
+
+Probe files from /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/LVS.lab3.part2/layout
+
+devbad.out:
+
+netbad.out:
+
+mergenet.out:
+
+termbad.out:
+
+prunenet.out:
+
+prunedev.out:
+
+audit.out:
