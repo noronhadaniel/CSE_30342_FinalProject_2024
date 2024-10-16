@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      nnguye24
 HostName                       student04.cse.nd.edu
-ProcessIdentifier              16496
-ProcessCreationTime_UTC        1729036917
-ProcessCreationTime_Readable   Tue Oct 15 20:01:57 2024 EDT
+ProcessIdentifier              11068
+ProcessCreationTime_UTC        1729039342
+ProcessCreationTime_Readable   Tue Oct 15 20:42:22 2024 EDT
 AppIdentifier                  /escnfs/home/csesoft/cadence/installs/IC617/tools/dfII/bin/64bit/libManager
 OSType                         lnx86
 ReasonForPlacingEditLock       log file
 FilePathUsedToEditLock         /escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/libManager.log
-TimeEditLocked                 Tue Oct 15 20:01:58 2024 EDT
+TimeEditLocked                 Tue Oct 15 20:42:22 2024 EDT

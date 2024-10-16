@@ -1,35 +1,16 @@
 \o Program:		@(#)$CDS: libManager version 6.1.7 - CAT35 10/30/2018 21:08 (sjfnl050) $
 \o Sub version:		sub-version  s231 
-\o Arguments:		-mpssession virtuoso15316 -mpshost student04 
+\o Arguments:		-mpssession virtuoso9881 -mpshost student04 
 \o Working Directory:	student04:/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz
 \o 64-bit offsets
 \o Qt version: 		4.8.5
 \o Log file is "/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/libManager.log".
 \o Opening libManager window.
 \a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(0 1 602 491))
 \o Loading customization file "./cdsLibMgr.il"
 \o Loading NCSU Library Manager customizations...done.
-\a nrResizeWindow(cdsLibManager list(0 1 602 491))
 \o changeWorkingDir("/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz") unnecessary.
 \o ddSetForcedLib("") unnecessary.
 \o MPS service: map window
 \o Library Manager customization server connected.
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a cdsLibManager->cdkCreateNewLib->value = t
-\a cdsLibManager->cdkCreateNewLib->value = t ; customval
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\w Warning: The directory: '/escnfs/courses/fa23-cse-30342.01/dropbox/VLSI/boyz/lab1_nnguye24' does not exist
-\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_nnguye24'.
-\w Warning: The directory: '/escnfs/courses/fa23-cse-30342.01/dropbox/VLSI/boyz/lab2_nnguye24' does not exist
-\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_nnguye24'.
-\w Warning: The directory: '/escnfs/courses/fa23-cse-30342.01/dropbox/VLSI/boyz/hw2_nnguye24' does not exist
-\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_nnguye24'.
-\o DB was auto refreshed.
