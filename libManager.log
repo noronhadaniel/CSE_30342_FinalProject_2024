@@ -14,3 +14,340 @@
 \o ddSetForcedLib("") unnecessary.
 \o MPS service: map window
 \o Library Manager customization server connected.
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(0 1 630 514))
+\a nrResizeWindow(cdsLibManager list(0 1 651 534))
+\a nrSetCurrentWindow(cdsLibManager)
+\o DB was auto refreshed.
+\a nrSetCurrentWindow(cdsLibManager)
+\o DB was auto refreshed.
+\w Warning: The directory: '/esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/hw2_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_rortiz4'.
+\w Warning: The directory: '/esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/lab2_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_rortiz4'.
+\w Warning: The directory: '/esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/lab1_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_rortiz4'.
+\w Warning: The directory: '/esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/hw2_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_nnguye24'.
+\w Warning: The directory: '/esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/lab2_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_nnguye24'.
+\w Warning: The directory: '/esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/lab1_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_nnguye24'.
+\o DB was auto refreshed.
+\w Warning: The directory: '/esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/hw2_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_dnoronha'.
+\w Warning: The directory: '/esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/lab2_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_dnoronha'.
+\w Warning: The directory: '/esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/lab1_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_dnoronha'.
+\w Warning: The directory: '/esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/hw2_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_rortiz4'.
+\w Warning: The directory: '/esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/lab2_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_rortiz4'.
+\w Warning: The directory: '/esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/lab1_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_rortiz4'.
+\w Warning: The directory: '/esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/hw2_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_nnguye24'.
+\w Warning: The directory: '/esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/lab2_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_nnguye24'.
+\w Warning: The directory: '/esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/lab1_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_nnguye24'.
+\o DB was auto refreshed.
+\w Warning: The directory: '/esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/hw2_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_dnoronha'.
+\w Warning: The directory: '/esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/lab2_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_dnoronha'.
+\w Warning: The directory: '/esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/lab1_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_dnoronha'.
+\w Warning: The directory: '/esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/hw2_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_rortiz4'.
+\w Warning: The directory: '/esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/lab2_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_rortiz4'.
+\w Warning: The directory: '/esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/lab1_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_rortiz4'.
+\w Warning: The directory: '/esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/hw2_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_nnguye24'.
+\w Warning: The directory: '/esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/lab2_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_nnguye24'.
+\w Warning: The directory: '/esc-courses/fa24-cse-30342.01/dropbox/VLSI/boyz/lab1_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_nnguye24'.
+\o DB was auto refreshed.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/hw2_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_dnoronha_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab2_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_dnoronha_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab1_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_dnoronha_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/hw2_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_dnoronha_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab2_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_dnoronha_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab1_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_dnoronha_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/hw2_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_rortiz4_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab2_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_rortiz4_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab1_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_rortiz4_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/hw2_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_rortiz4_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab2_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_rortiz4_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab1_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_rortiz4_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/hw2_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_nnguye24_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab2_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_nnguye24_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab1_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_nnguye24_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/hw2_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_nnguye24_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab2_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_nnguye24_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab1_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_nnguye24_dnoronha'.
+\o DB was auto refreshed.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/hw2_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_dnoronha_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab2_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_dnoronha_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab1_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_dnoronha_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/hw2_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_dnoronha_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab2_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_dnoronha_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab1_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_dnoronha_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/hw2_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_rortiz4_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab2_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_rortiz4_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab1_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_rortiz4_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/hw2_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_rortiz4_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab2_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_rortiz4_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab1_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_rortiz4_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/hw2_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_nnguye24_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab2_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_nnguye24_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab1_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_nnguye24_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/hw2_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_nnguye24_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab2_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_nnguye24_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab1_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_nnguye24_dnoronha'.
+\o DB was auto refreshed.
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->libListBox->value = "lab3_boyz"
+\a cdsLibManager->libLineEdit->value = "lab3_boyz"
+\a cdsLibManager->cellListBox->value = "adv_logic"
+\a cdsLibManager->cellLineEdit->value = "adv_logic"
+\a cdsLibManager->FileNewCVButton->value = t
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(21 74 651 534))
+\a _lmgrCloseIconify("cdsLibManager" 1)
+\o MPS service: map window
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellListBox->value = "adv_logic"
+\a cdsLibManager->cellLineEdit->value = "adv_logic"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->FileNewCVButton->value = t
+\a cdsLibManager->FileNewCVButton->value = t
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->gdmXTView 0 0)
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/hw2_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_dnoronha_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab2_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_dnoronha_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab1_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_dnoronha_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/hw2_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_dnoronha_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab2_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_dnoronha_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab1_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_dnoronha_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/hw2_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_rortiz4_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab2_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_rortiz4_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab1_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_rortiz4_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/hw2_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_rortiz4_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab2_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_rortiz4_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab1_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_rortiz4_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/hw2_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_nnguye24_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab2_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_nnguye24_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab1_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_nnguye24_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/hw2_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_nnguye24_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab2_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_nnguye24_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab1_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_nnguye24_dnoronha'.
+\a cdsLibManager->libListBox->value = "lab3_boyz"
+\a cdsLibManager->libLineEdit->value = "lab3_boyz"
+\a cdsLibManager->cellListBox->value = "adv_logic"
+\a cdsLibManager->cellLineEdit->value = "adv_logic"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellListBox->value = "adv_logic"
+\a cdsLibManager->cellLineEdit->value = "adv_logic"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/hw2_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_dnoronha_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab2_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_dnoronha_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab1_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_dnoronha_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/hw2_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_dnoronha_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab2_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_dnoronha_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab1_dnoronha' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_dnoronha_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/hw2_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_rortiz4_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab2_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_rortiz4_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab1_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_rortiz4_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/hw2_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_rortiz4_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab2_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_rortiz4_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab1_rortiz4' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_rortiz4_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/hw2_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_nnguye24_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab2_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_nnguye24_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/rortiz4/VLSI/boyz/lab1_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_nnguye24_rortiz4'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/hw2_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'hw2_nnguye24_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab2_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab2_nnguye24_dnoronha'.
+\w Warning: The directory: '/escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/lab1_nnguye24' does not exist
+\w 	but was defined in libFile '/escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/cds.lib' for Lib 'lab1_nnguye24_dnoronha'.
+\a cdsLibManager->libListBox->value = "lab3_boyz"
+\a cdsLibManager->libLineEdit->value = "lab3_boyz"
+\a cdsLibManager->cellListBox->value = "adv_logic"
+\a cdsLibManager->cellLineEdit->value = "adv_logic"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellListBox->value = "adv_logic"
+\a cdsLibManager->cellLineEdit->value = "adv_logic"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->copySimpleButton->value = t
+\a basicCopyForm->CategoryCellsEdit->value = "*"
+\a basicCopyForm->CellsSkipLibraries->value = t
+\a basicCopyForm->CellsSkipLibrariesEdit->value = "*"
+\a basicCopyForm->CellsSkipLibrariesEdit->value = "*"
+\a basicCopyForm->ViewsSkipLibraries->value = t
+\a basicCopyForm->ViewsSkipLibrariesEdit->value = "*"
+\a basicCopyForm->CopyFromLibrary->value = "NCSU_Analog_Parts"
+\a basicCopyForm->CopyToLibrary->value = "NCSU_Analog_Parts"
+\a basicCopyForm->CopyFromLibrary->value = "lab3_boyz"
+\a basicCopyForm->CopyFromCell->value = "adv_logic"
+\a basicCopyForm->CopyFromView->value = "schematic"
+\a basicCopyForm->CopyToLibrary->value = "lab3_boyz"
+\a basicCopyForm->CopyToCell->value = "adv_logic"
+\a basicCopyForm->CopyToView->value = "schematic"
+\a basicCopyForm->ViewsViewsToCopy->value = "schematic"
+\a basicCopyForm->CellsSkipLibrariesEdit->value = ""
+\a basicCopyForm->CellsSkipLibrariesEdit->value = "NCSU_Analog_Parts NCSU_Digital_Parts NCSU_TechLib_ami06 NCSU_TechLib_ami16 NCSU_TechLib_hp06 NCSU_TechLib_tsmc02 NCSU_TechLib_tsmc02d NCSU_TechLib_tsmc03 NCSU_TechLib_tsmc03d NCSU_TechLib_tsmc04_4M2P analogLib basic cdsDefTechLib functional hw2_dnoronha_nnguye24 hw2_nnguye24_nnguye24 hw2_rortiz4_nnguye24 lab1_dnoronha_nnguye24 lab1_nnguye24_nnguye24 lab1_rortiz4_nnguye24 lab2_dnoronha_nnguye24 lab2_nnguye24_nnguye24 lab2_rortiz4_nnguye24 sbaLib"
+\a basicCopyForm->ViewsSkipLibrariesEdit->value = "NCSU_Analog_Parts NCSU_Digital_Parts NCSU_TechLib_ami06 NCSU_TechLib_ami16 NCSU_TechLib_hp06 NCSU_TechLib_tsmc02 NCSU_TechLib_tsmc02d NCSU_TechLib_tsmc03 NCSU_TechLib_tsmc03d NCSU_TechLib_tsmc04_4M2P analogLib basic cdsDefTechLib functional hw2_dnoronha_nnguye24 hw2_nnguye24_nnguye24 hw2_rortiz4_nnguye24 lab1_dnoronha_nnguye24 lab1_nnguye24_nnguye24 lab1_rortiz4_nnguye24 lab2_dnoronha_nnguye24 lab2_nnguye24_nnguye24 lab2_rortiz4_nnguye24 sbaLib"
+\a nrSetWindowVisibility(basicCopyForm "show")
+\a nrResizeWindow(basicCopyForm list(124 96 444 676))
+\a nrResizeWindow(basicCopyForm list(124 96 444 698))
+\a nrSetCurrentWindow(basicCopyForm)
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->FileNewCVButton->value = t
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\o MPS service: shutdown
+\o libManager is exiting.
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a exit(0)

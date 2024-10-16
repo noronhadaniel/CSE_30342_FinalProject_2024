@@ -1,0 +1,1 @@
+("adv_logic:/\tadv_logic lab3_boyz layout" (("open" (nil hierarchy "/{lab3_boyz adv_logic layout }:a"))) (((-27.956 -9.997) (34.689 19.006)) "a" "VLS-GXL" 18))("adv_logic:/\tadv_logic lab3_boyz schematic" (("open" (nil hierarchy "/{lab3_boyz adv_logic schematic }:r"))) (((0.56875 -5.025) (5.71875 2.15)) "r" "Schematics XL" 19))
