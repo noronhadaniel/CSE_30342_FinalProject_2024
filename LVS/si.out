@@ -1,18 +1,18 @@
 @(#)$CDS: LVS version 6.1.7-64b 12/16/2018 07:37 (sjfhw317) $
 
-Command line: /escnfs/home/csesoft/cadence/installs/IC617/tools.lnx86/dfII/bin/64bit/LVS -dir /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/LVS -l -s -t /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/LVS/layout /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/LVS/schematic
+Command line: /escnfs/home/csesoft/cadence/installs/IC617/tools.lnx86/dfII/bin/64bit/LVS -dir /escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/LVS -l -s -t /escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/LVS/layout /escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/LVS/schematic
 Like matching is enabled.
 Net swapping is enabled.
 Using terminal names as correspondence points.
 Compiling Diva LVS rules...
 
-    Net-list summary for /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/LVS/layout/netlist
+    Net-list summary for /escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/LVS/layout/netlist
        count
         4               nets
         4               terminals
         1               pmos
 
-    Net-list summary for /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/LVS/schematic/netlist
+    Net-list summary for /escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/LVS/schematic/netlist
        count
         4               nets
         4               terminals
@@ -20,9 +20,9 @@ Compiling Diva LVS rules...
 
 
     Terminal correspondence points
-    N2        N2        D
-    N1        N4        G
-    N0        N3        S
+    N2        N4        D
+    N1        N3        G
+    N0        N2        S
     N3        N0        vdd!
 
 Devices in the rules but not in the netlist:
@@ -53,7 +53,7 @@ The net-lists match.
         total                   4       4      
 
 
-Probe files from /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/LVS/schematic
+Probe files from /escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/LVS/schematic
 
 devbad.out:
 
@@ -70,7 +70,7 @@ prunedev.out:
 audit.out:
 
 
-Probe files from /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/LVS/layout
+Probe files from /escnfs/courses/fa24-cse-30342.01/dropbox/nnguye24/VLSI/boyz/LVS/layout
 
 devbad.out:
 
