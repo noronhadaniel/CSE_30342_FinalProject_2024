@@ -3,4 +3,6 @@
 *.cdslck.*
 .DS_Store
 .nfs*
+libManager.log
+libManager.log.*
 cds.lib
