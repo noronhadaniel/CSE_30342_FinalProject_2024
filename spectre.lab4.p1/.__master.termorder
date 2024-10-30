@@ -1,0 +1,3 @@
+"lab4_boyz_dnoronha.PMOS_IV_3.schematic.termorder" (("D" "G" "S") ("D" "G" "S"))
+"lab4_boyz_dnoronha.NMOS_IV_3.schematic.termorder" (("D" "G" "S") ("D" "G" "S"))
+"lab4_boyz_dnoronha.inv.schematic.termorder" (("in" "out") ("in" "out"))

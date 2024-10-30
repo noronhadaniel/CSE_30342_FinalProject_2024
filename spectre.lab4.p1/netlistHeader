@@ -1,0 +1,7 @@
+// Generated for: spectre
+// Generated on: Oct 29 19:47:42 2024
+// Design library name: lab4_boyz_dnoronha
+// Design cell name: ring_osc
+// Design view name: schematic
+simulator lang=spectre
+global 0 vdd!

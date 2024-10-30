@@ -1,0 +1,6 @@
+CADENCE IHNL11144
+
+lab4_boyz_dnoronha NMOS_IV_3 schematic cds0
+lab4_boyz_dnoronha PMOS_IV_3 schematic cds1
+lab4_boyz_dnoronha inv schematic cds2
+lab4_boyz_dnoronha ring_osc schematic cds3

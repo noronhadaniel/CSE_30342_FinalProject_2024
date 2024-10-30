@@ -1,0 +1,88 @@
+@(#)$CDS: LVS version 6.1.7-64b 12/16/2018 07:37 (sjfhw317) $
+
+Command line: /escnfs/home/csesoft/cadence/installs/IC617/tools.lnx86/dfII/bin/64bit/LVS -dir /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/LVS.ring_osc -l -s -t /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/LVS.ring_osc/layout /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/LVS.ring_osc/schematic
+Like matching is enabled.
+Net swapping is enabled.
+Using terminal names as correspondence points.
+Compiling Diva LVS rules...
+
+    Net-list summary for /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/LVS.ring_osc/layout/netlist
+       count
+        23              nets
+        3               terminals
+        21              pmos
+        21              nmos
+
+    Net-list summary for /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/LVS.ring_osc/schematic/netlist
+       count
+        23              nets
+        3               terminals
+        21              pmos
+        21              nmos
+
+
+    Terminal correspondence points
+    N20       N0        gnd!
+    N22       N18       out
+    N21       N1        vdd!
+
+Devices in the rules but not in the netlist:
+        cap nfet pfet nmos4 pmos4
+
+The net-lists match.
+
+                             layout  schematic
+                                instances
+        un-matched              0       0      
+        rewired                 0       0      
+        size errors             0       0      
+        pruned                  0       0      
+        active                  42      42     
+        total                   42      42     
+
+                                  nets
+        un-matched              0       0      
+        merged                  0       0      
+        pruned                  0       0      
+        active                  23      23     
+        total                   23      23     
+
+                                terminals
+        un-matched              0       0      
+        matched but
+        different type          0       0      
+        total                   3       3      
+
+
+Probe files from /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/LVS.ring_osc/schematic
+
+devbad.out:
+
+netbad.out:
+
+mergenet.out:
+
+termbad.out:
+
+prunenet.out:
+
+prunedev.out:
+
+audit.out:
+
+
+Probe files from /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/LVS.ring_osc/layout
+
+devbad.out:
+
+netbad.out:
+
+mergenet.out:
+
+termbad.out:
+
+prunenet.out:
+
+prunedev.out:
+
+audit.out:

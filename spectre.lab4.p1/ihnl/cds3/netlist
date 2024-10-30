@@ -1,0 +1,26 @@
+
+// Library name: lab4_boyz_dnoronha
+// Cell name: ring_osc
+// View name: schematic
+I23 (out net23) inv
+I24 (net23 net22) inv
+I25 (net22 net21) inv
+I26 (net21 net20) inv
+I27 (net20 net19) inv
+I28 (net19 net18) inv
+I29 (net18 net17) inv
+I30 (net17 net16) inv
+I31 (net16 net15) inv
+I32 (net15 net14) inv
+I33 (net14 net13) inv
+I34 (net13 net12) inv
+I35 (net12 net11) inv
+I36 (net11 net10) inv
+I37 (net10 net9) inv
+I38 (net9 net8) inv
+I39 (net8 net7) inv
+I40 (net7 net6) inv
+I41 (net6 net5) inv
+I42 (net5 net4) inv
+I43 (net4 out) inv
+V0 (vdd! 0) vsource type=dc dc=5
