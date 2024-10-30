@@ -1,0 +1,87 @@
+@(#)$CDS: LVS version 6.1.7-64b 12/16/2018 07:37 (sjfhw317) $
+
+Command line: /escnfs/home/csesoft/cadence/installs/IC617/tools.lnx86/dfII/bin/64bit/LVS -dir /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/LVS -l -s -t /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/LVS/layout /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/LVS/schematic
+Like matching is enabled.
+Net swapping is enabled.
+Using terminal names as correspondence points.
+Compiling Diva LVS rules...
+
+    Net-list summary for /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/LVS/layout/netlist
+       count
+        4               nets
+        4               terminals
+        1               pmos
+
+    Net-list summary for /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/LVS/schematic/netlist
+       count
+        4               nets
+        4               terminals
+        1               pmos
+
+
+    Terminal correspondence points
+    N2        N2        D
+    N1        N4        G
+    N0        N3        S
+    N3        N0        vdd!
+
+Devices in the rules but not in the netlist:
+        cap nfet pfet nmos nmos4 pmos4
+
+The net-lists match.
+
+                             layout  schematic
+                                instances
+        un-matched              0       0      
+        rewired                 0       0      
+        size errors             0       0      
+        pruned                  0       0      
+        active                  1       1      
+        total                   1       1      
+
+                                  nets
+        un-matched              0       0      
+        merged                  0       0      
+        pruned                  0       0      
+        active                  4       4      
+        total                   4       4      
+
+                                terminals
+        un-matched              0       0      
+        matched but
+        different type          0       0      
+        total                   4       4      
+
+
+Probe files from /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/LVS/schematic
+
+devbad.out:
+
+netbad.out:
+
+mergenet.out:
+
+termbad.out:
+
+prunenet.out:
+
+prunedev.out:
+
+audit.out:
+
+
+Probe files from /escnfs/courses/fa24-cse-30342.01/dropbox/dnoronha/VLSI/boyz/LVS/layout
+
+devbad.out:
+
+netbad.out:
+
+mergenet.out:
+
+termbad.out:
+
+prunenet.out:
+
+prunedev.out:
+
+audit.out:

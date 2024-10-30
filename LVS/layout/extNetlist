@@ -1,0 +1,14 @@
+t 2 D inputOutput
+t 1 G inputOutput
+t 0 S inputOutput
+t 3 vdd! inputOutput
+
+n 0 /S
+n 1 /G
+n 2 /D
+n 3 /vdd!
+
+; pmos4 Instance /+0 = auLvs device Q0
+d pmos D G S B (p D S)
+i 0 pmos 2 1 0 3 " m 1 l 600e-9 w 12e-6 "
+
