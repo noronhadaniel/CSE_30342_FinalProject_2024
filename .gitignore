@@ -1,4 +1,8 @@
-*.cdslck
-.DS_Store
-*.log*
 *.history
+*.cdslck
+*.cdslck.*
+.DS_Store
+*.log
+*.log.*
+.nfs*
+cds.lib
