@@ -1,0 +1,5 @@
+
+// Library name: lab4_boyz_nnguye24
+// Cell name: pmos_1l
+// View name: schematic
+subckt pmos_1l D G S

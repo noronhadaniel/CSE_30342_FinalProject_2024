@@ -1,0 +1,8 @@
+CADENCE IHNL11146
+
+lab4_boyz_nnguye24 pmos_8l schematic cds0
+lab4_boyz_nnguye24 pmos_1l schematic cds1
+lab4_boyz_nnguye24 nmos_1l schematic cds2
+lab4_boyz_nnguye24 nmos_4l schematic cds3
+lab4_boyz_nnguye24 mirror_FA schematic cds4
+lab4_boyz_nnguye24 sim_mirror_FA schematic cds5

@@ -1,0 +1,5 @@
+"lab4_boyz_nnguye24.nmos_1l.schematic.termorder" (("D" "G" "S") ("D" "G" "S"))
+"lab4_boyz_nnguye24.pmos_8l.schematic.termorder" (("D" "G" "S") ("D" "G" "S"))
+"lab4_boyz_nnguye24.mirror_FA.schematic.termorder" (("A" "B" "C" "CoutNeg" "SumNeg") ("A" "B" "C" "CoutNeg" "SumNeg"))
+"lab4_boyz_nnguye24.pmos_1l.schematic.termorder" (("D" "G" "S") ("D" "G" "S"))
+"lab4_boyz_nnguye24.nmos_4l.schematic.termorder" (("D" "G" "S") ("D" "G" "S"))
