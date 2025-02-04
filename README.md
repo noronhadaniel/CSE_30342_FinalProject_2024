@@ -1,8 +1,8 @@
 # boyz
 CSE 30342 Github Repository (Cadence Virtuoso Labs 3+ &amp; Final Project)
 
-Nguyen Nguyen
-Daniel Noronha 
+Nguyen Nguyen <br/>
+Daniel Noronha <br/>
 Ricky Ortiz
 
 After opening this directory in a CRC linux student machine, run the following lines to open Virtuoso:
